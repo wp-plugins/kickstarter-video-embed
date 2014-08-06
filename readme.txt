@@ -1,5 +1,5 @@
 === Kickstarter Video Embed ===
-Contributors: DrewAPicture
+Contributors: DrewAPicture, 10up
 Donate link: http://wordpressfoundation.org/donate/
 Tags: kickstarter, oembed, embed
 Requires at least: 2.9.0
