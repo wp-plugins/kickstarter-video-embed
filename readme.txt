@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds Kickstarter to the list of supported [oEmbed providers](http://codex.wordpress.org/Embeds#oEmbed). It currently only supports embedding project videos.
+Adds Kickstarter to the list of supported <a href=“http://codex.wordpress.org/Embeds#oEmbed”>oEmbed providers</a>. It currently only supports embedding project videos.
 
 == Description ==
 
-This plugin allows you to more easily embed [Kickstarter](https://www.kickstarter.com/) project videos on your WordPress site.
+This plugin allows you to more easily embed <a href=“https://www.kickstarter.com/”>Kickstarter</a> project videos on your WordPress site.
 
 To embed a project video, simply paste the URL to your Kickstarter project on its own line in the editor. WordPress will do the rest.
 
