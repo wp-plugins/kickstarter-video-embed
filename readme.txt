@@ -24,6 +24,8 @@ To embed a project video, simply paste the URL to your Kickstarter project on it
 == Screenshots ==
 
 1. Kickstarter embed preview in the editor (4.0+).
+2. Kickstarter embed link in the editor (3.9-).
+3. Kickstarter embed displayed on the front of the site.
 
 == Changelog ==
 
