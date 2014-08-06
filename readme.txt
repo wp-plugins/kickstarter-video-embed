@@ -21,6 +21,10 @@ To embed a project video, simply paste the URL to your Kickstarter project on it
 1. Search for 'Kickstarter Video Embed' from the Plugins > Add New screen.
 2. Install and activate the plugin.
 
+== Screenshots ==
+
+1. Kickstarter embed preview in the editor (4.0+).
+
 == Changelog ==
 
 = 1.0 =
