@@ -51,7 +51,7 @@ function kve_deactivate_plugin() {
  */
 function kve_deactivate_plugin_notice() {
 	?>
-	<div class="updated notice is_dismissable">
+	<div class="updated notice is_dismissible">
 		<p>WordPress now <a href="https://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F">supports</a> Kickstarter oEmbeds as of 4.2. The <strong>Kickstarter Video Embed</strong> has been automatically <strong>deactivated</strong>.</p>
 	</div>
 	<?php
